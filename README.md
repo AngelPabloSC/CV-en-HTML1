@@ -1,2 +1,2 @@
 # CV en HTML
- Curriculon 12 de mayo
+ Curriculum 12mayo
